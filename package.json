@@ -1,0 +1,20 @@
+{
+  "name": "grapesjs-uikit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agreif/grapesjs-uikit.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/agreif/grapesjs-uikit/issues"
+  },
+  "homepage": "https://github.com/agreif/grapesjs-uikit#readme"
+}
